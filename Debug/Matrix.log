@@ -1,0 +1,3 @@
+﻿  Matrix.cpp
+C:\Users\ASUS\source\repos\Matrix\Matrix.cpp(114): warning C4715: MatrixLibrary::Matrixx::det: значение возвращается не при всех путях выполнения
+  Matrix.vcxproj -> C:\Users\ASUS\source\repos\Matrix\Debug\Matrix.lib
